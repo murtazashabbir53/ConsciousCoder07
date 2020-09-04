@@ -2,16 +2,16 @@
 **Hi there 👋 I am Faizan, A Computer Science student 👨‍💻**
 - 🌱 I’m currently learning Web Development and Database Management
 - 🤔 Decided to be more active on github and contribute 
-- 💬 Feel free to sk me anything about C++, Python or Java
+- 💬 Feel free to ask me anything about C++, Python or Java
 
 **Connect with me:**
 
 <a href="faizanqazi487@gmail.com">
   <img align="left" alt="Faizan's Gmail" width="22px" src="https://img.icons8.com/ios-filled/2x/gmail.png" />
 </a>
-<a href="https://twitter.com/insightfo_ol">
+<!-- <a href="https://twitter.com/insightfo_ol">
   <img align="left" alt="Faizan's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a> -->
 <a href="https://www.linkedin.com/in/faizan-qazi-50248517a/">
   <img align="left" alt="Faizan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
